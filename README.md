@@ -15,11 +15,11 @@ I'm a Software Engineer passionate about solving complex problems and delivering
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbroks&layout=compact&langs_count=14&hide_border=true&role=owner,collaborator&theme=dark&bg_color=21222C#gh-dark-mode-only" alt="Mohammed Hisham's Language stats" />
+<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbroks&layout=compact&langs_count=14&hide_border=true&role=owner,collaborator&theme=dark&bg_color=21222C#gh-dark-mode-only" alt="Mohammed Hisham's Language stats" />
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=210 src="https://github-readme-stats.vercel.app/api?username=mrbroks&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&icon_color=BBA3D1&bg_color=21222C#gh-dark-mode-only" alt="Mohammed Hisham's Github stats" />
+<img height=195 src="https://github-readme-stats.vercel.app/api?username=mrbroks&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&icon_color=BBA3D1&bg_color=21222C#gh-dark-mode-only" alt="Mohammed Hisham's Github stats" />
 </a>
 </div>
 
@@ -27,11 +27,11 @@ I'm a Software Engineer passionate about solving complex problems and delivering
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbroks&layout=compact&langs_count=14&hide_border=true&role=owner,collaborator&theme=default&bg_color=E8E8F7&title_color=563D7C#gh-light-mode-only" alt="Mohammed Hisham's Language stats" />
+<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbroks&layout=compact&langs_count=14&hide_border=true&role=owner,collaborator&theme=default&bg_color=E8E8F7&title_color=563D7C#gh-light-mode-only" alt="Mohammed Hisham's Language stats" />
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=210 src="https://github-readme-stats.vercel.app/api?username=mrbroks&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&icon_color=9373b1&bg_color=E8E8F7&title_color=563D7C&theme=default#gh-light-mode-only" alt="Mohammed Hisham's Github stats" />
+<img height=195 src="https://github-readme-stats.vercel.app/api?username=mrbroks&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&icon_color=9373b1&bg_color=E8E8F7&title_color=563D7C&theme=default#gh-light-mode-only" alt="Mohammed Hisham's Github stats" />
 </a>
 </div>
 
@@ -39,14 +39,14 @@ I'm a Software Engineer passionate about solving complex problems and delivering
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://git.io/streak-stats#gh-dark-mode-only">
-<img src="https://streak-stats.demolab.com?user=mrbroks&theme=dark-minimalist&background=21222C&stroke=white&ring=BBA3D1&fire=9373b1&currStreakNum=white&currStreakLabel=white&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500#gh-dark-mode-only" alt="Mohammed Hisham's Streak" />
+<img src="https://streak-stats.demolab.com?user=mrbroks&theme=dark-minimalist&background=21222C&stroke=white&ring=BBA3D1&fire=9373b1&currStreakNum=white&currStreakLabel=white&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=120#gh-dark-mode-only" alt="Mohammed Hisham's Streak" />
 </a>
 </div>
 
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://git.io/streak-stats#gh-light-mode-only">
-<img src="https://streak-stats.demolab.com?user=mrbroks&theme=meta-light&background=E8E8F7&ring=9373b1&fire=563D7C&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500#gh-light-mode-only" alt="Mohammed Hisham's Streak"/>
+<img src="https://streak-stats.demolab.com?user=mrbroks&theme=meta-light&background=E8E8F7&ring=9373b1&fire=563D7C&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=120#gh-light-mode-only" alt="Mohammed Hisham's Streak"/>
 </a>
 </div>
 
