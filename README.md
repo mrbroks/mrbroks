@@ -19,7 +19,7 @@ I'm a Software Engineer passionate about solving complex problems and delivering
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=195 src="https://github-readme-stats.vercel.app/api?username=mrbroks&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&icon_color=BBA3D1&bg_color=21222C#gh-dark-mode-only" alt="Mohammed Hisham's Github stats" />
+<img height=195 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrbroks&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&icon_color=BBA3D1&bg_color=21222C#gh-dark-mode-only" alt="Mohammed Hisham's Github stats" />
 </a>
 </div>
 
@@ -31,7 +31,7 @@ I'm a Software Engineer passionate about solving complex problems and delivering
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=195 src="https://github-readme-stats.vercel.app/api?username=mrbroks&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&icon_color=9373b1&bg_color=E8E8F7&title_color=563D7C&theme=default#gh-light-mode-only" alt="Mohammed Hisham's Github stats" />
+<img height=195 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrbroks&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&icon_color=9373b1&bg_color=E8E8F7&title_color=563D7C&theme=default#gh-light-mode-only" alt="Mohammed Hisham's Github stats" />
 </a>
 </div>
 
