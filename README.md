@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Mohammed 
 
-[![Github](https://img.shields.io/github/followers/mrbroks?label=Follow&style=social)](https://github.com/mrbroks)
+[![Github](https://img.shields.io/github/followers/mrbroks?label=Follow&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmrbroks)
 
 <img align="right" width="140px" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 
