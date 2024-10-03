@@ -15,7 +15,7 @@ I'm a Software Engineer passionate about solving complex problems and delivering
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbroks&layout=compact&langs_count=14&hide_border=true&role=owner,collaborator&theme=dark&bg_color=21222C#gh-dark-mode-only" alt="Mohammed Hisham's Language stats" />
+<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbroks&layout=compact&langs_count=14&hide=tex&hide_border=true&role=owner,collaborator&theme=dark&bg_color=21222C#gh-dark-mode-only" alt="Mohammed Hisham's Language stats" />
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
@@ -27,7 +27,7 @@ I'm a Software Engineer passionate about solving complex problems and delivering
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbroks&layout=compact&langs_count=14&hide_border=true&role=owner,collaborator&theme=default&bg_color=E8E8F7&title_color=563D7C#gh-light-mode-only" alt="Mohammed Hisham's Language stats" />
+<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbroks&layout=compact&langs_count=14&hide=tex&hide_border=true&role=owner,collaborator&theme=default&bg_color=E8E8F7&title_color=563D7C#gh-light-mode-only" alt="Mohammed Hisham's Language stats" />
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
