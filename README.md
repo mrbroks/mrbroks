@@ -39,14 +39,14 @@ I'm a Software Engineer passionate about solving complex problems and delivering
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://git.io/streak-stats#gh-dark-mode-only">
-<img src="https://streak-stats.demolab.com?user=mrbroks&theme=dark-minimalist&background=21222C&stroke=white&ring=BBA3D1&fire=9373b1&currStreakNum=white&currStreakLabel=white&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=120#gh-dark-mode-only" alt="Mohammed Hisham's Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=mrbroks&theme=dark-minimalist&background=21222C&stroke=white&ring=BBA3D1&fire=9373b1&currStreakNum=white&currStreakLabel=white&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=120#gh-dark-mode-only" alt="Mohammed Hisham's Streak" />
 </a>
 </div>
 
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://git.io/streak-stats#gh-light-mode-only">
-<img src="https://streak-stats.demolab.com?user=mrbroks&theme=meta-light&background=E8E8F7&ring=9373b1&fire=563D7C&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=120#gh-light-mode-only" alt="Mohammed Hisham's Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=mrbroks&theme=meta-light&background=E8E8F7&ring=9373b1&fire=563D7C&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=120#gh-light-mode-only" alt="Mohammed Hisham's Streak"/>
 </a>
 </div>
 
